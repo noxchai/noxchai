@@ -127,7 +127,7 @@ with st.sidebar:
         renew_conversation()
     
     st.divider()
-    st.write("CHECHEN")
+    st.write("noxchai")
 
 # Initialize user if needed
 initialize_user()
