@@ -127,7 +127,7 @@ with st.sidebar:
         renew_conversation()
     
     st.divider()
-    st.write("This is a simple AI chat interface using the Monica API.")
+    st.write("CHECHEN")
 
 # Initialize user if needed
 initialize_user()
